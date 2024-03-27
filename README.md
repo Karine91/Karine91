@@ -6,11 +6,6 @@ Frontend Developer
 
 A Frontend Developer with 7 years of experience, predominantly in React. Collaborative team player with a commitment to lifelong learning.
 
-* 🌍  I'm based in Slovakia
-* ✉️  You can contact me at [gulkarine91@gmail.com](mailto:gulkarine91@gmail.com)
-* 🧠  I'm learning Vue.js
-* 🤝  I'm open to collaborating on projects
-
 ### Skills
 
 
