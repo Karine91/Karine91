@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-A Frontend Development with 7 years of experience, predominantly in React. Collaborative team player with a commitment to lifelong learning.
+A Frontend Developer with 7 years of experience, predominantly in React. Collaborative team player with a commitment to lifelong learning.
 
 * 🌍  I'm based in Slovakia
 * ✉️  You can contact me at [gulkarine91@gmail.com](mailto:gulkarine91@gmail.com)
