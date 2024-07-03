@@ -1,10 +1,9 @@
-Hi! My name is Karine Hiulumian
+Hi! 
 ========================================================================================================================================
 
-Frontend Developer
+I'm a Frontend Developer, predominantly working with React
 ------------------
 
-A Frontend Developer with 7 years of experience, predominantly in React. Collaborative team player with a commitment to lifelong learning.
 
 ### Skills
 
